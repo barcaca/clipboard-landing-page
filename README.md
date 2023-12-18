@@ -23,8 +23,8 @@ Este projeto é uma solução para o [Clipboard Landing Page no Frontend Mentor]
 
 ## 🔗 Links
 
-- Solution URL: [Clipboard Landing Page/Frontier Mentor](https://www.frontendmentor.io/solutions/age-calculator-appnextjs-tailwinds-vbeDGNeJAc)
-- Live Site URL: [Vercel App](https://age-calculator-app-black.vercel.app)
+- Solution URL: [Clipboard Landing Page/Frontier Mentor](https://www.frontendmentor.io/solutions/clipboard-landing-pagetailwind-css-mKS9kmuDzA)
+- Live Site URL: [Vercel App](https://clipboard-landing-page-eight-coral.vercel.app)
 
 ## 🚀 Processo
 
